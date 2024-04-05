@@ -1,4 +1,5 @@
 '''Solar Doomsday
+============
 
 Who would’ve guessed? Doomsday devices take a LOT of power. Commander Lambda wants to supplement the LAMBCHOP’s quantum antimatter reactor core with solar arrays, 
 and she’s tasked you with setting up the solar panels. Due to the nature of the space station’s outer paneling, all of its solar panels must be squares. 
