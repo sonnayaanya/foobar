@@ -67,9 +67,3 @@ def solution(n, b):
         curr_n =  (k - len(curr_n)) * '0' + curr_n
     # Length of the sequence until the first repetition of curr_n
     return len(unique_ids) - unique_ids.index(curr_n)
-
-
-'''
-To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
-Refer a friend: "https://foobar.withgoogle.com/?eid=YXCJv" (Unused)
-'''
