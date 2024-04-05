@@ -13,8 +13,7 @@ Write a function solution(area) that takes as its input a single unit of measure
 and returns a list of the areas of the largest squares you could make out of those panels, starting with the largest squares first. 
 So, following the example above, solution(12) would return [9, 1, 1, 1].
 
-Test cases:
-
+-- Python cases --
 Inputs:
     (int) area = 12
 Output:
